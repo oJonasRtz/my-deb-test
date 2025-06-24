@@ -1,0 +1,7 @@
+Package: sayhello
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Seu Nome <seu.email@exemplo.com>
+Description: Comando simples que mostra uma mensagem personalizada na tela.
