@@ -1,5 +1,5 @@
-how to instal
+how to install
 
-sudp dpkg -i sayhello.deb
+sudo dpkg -i sayhello.deb
 
 and now you have the `sayhello` command
