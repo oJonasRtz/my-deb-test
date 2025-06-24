@@ -1,2 +1,7 @@
 #!/bin/bash
+if [ "$1" == "-h" || "S1" == "--help" ] then
+	echo "Just sayhello. Its fine"
+	exit 0
+fi
+
 cat /usr/local/share/sayhello/cat.txt
